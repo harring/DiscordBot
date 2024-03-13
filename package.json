@@ -1,0 +1,24 @@
+{
+  "name": "isabangerbot",
+  "version": "1.0.0",
+  "description": "Discord bot to classify posts as bangers or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harring/IsABangerBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harring/IsABangerBot/issues"
+  },
+  "homepage": "https://github.com/harring/IsABangerBot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "trello": "^0.11.0"
+  }
+}
