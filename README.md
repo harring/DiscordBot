@@ -4,9 +4,11 @@ This Discord bot integrates with the Trello API to fetch cards. It responds to s
 
 ## Current Features
 
-- **Ping Command**: Replies with "Pong!" to test the bot's responsiveness.
-- **Hello Command**: Greets the user with a personalized message.
-- **Trello Deadline Command**: Retrieves and lists all Trello cards with deadlines for the current week from a specified board.
+- **Ping**: Replies with "Pong!" to test the bot's responsiveness.
+- **Hello**: Greets the user with a personalized message.
+- **Trello Deadline**: Retrieves and lists all Trello cards with deadlines for the current week from a specified board.
+- **Trello Get Labels**: Retrieves a list of all labels on the Trello board.
+- **Trello Get Cards By Label Name** Retrieves a list of all cards that has a specific label assigned, input is the name of the label.
 
 ## Prerequisites
 
