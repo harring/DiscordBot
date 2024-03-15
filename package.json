@@ -1,7 +1,7 @@
 {
-  "name": "isabangerbot",
+  "name": "DiscordBot",
   "version": "1.0.0",
-  "description": "Discord bot to classify posts as bangers or not",
+  "description": "Discord with trello api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
